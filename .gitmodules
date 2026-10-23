@@ -1,0 +1,4 @@
+[submodule "tutorial-DUNENDSim"]
+	path = tutorial-DUNENDSim
+	url = https://github.com/alexbooth92/tutorial-DUNENDSim.git
+	branch = dune-tech-rice
